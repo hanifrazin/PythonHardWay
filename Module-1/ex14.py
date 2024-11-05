@@ -8,7 +8,7 @@ print("I'd like to ask you a few questions.")
 print(f"Do you like me {user_name}?")
 likes = input(prompt)
 
-print(f"Where do you live? {user_name}?")
+print(f"Where do you live {user_name}?")
 lives = input(prompt)
 
 print("What kind of computer do you have?")
