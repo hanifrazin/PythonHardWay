@@ -17,7 +17,7 @@ languages = [
     ['JavaScript',['Moderate',['Alright','Bisarre']]],
     ['Perl6',['Moderate',['Fun','World']]],
     ['C',['Fast',['Annoying','Dangerous']]],
-    ['Forth',['Fast',['Fun','Difficult']]]
+    ['Forth',['Weird',['Fun','Difficult']]]
 ]
 
 print("\nFruit Challenge")
@@ -48,4 +48,4 @@ print(languages[4][1][1][1]) # Difficult
 print(languages[4][1][1][0]) # Fun
 print(languages[3][1][1][0]) # Annoying
 print(languages[1][1][0]) # Moderate
-# print(languages[][][][]) # Weird
+print(languages[4][1][0]) # Weird
